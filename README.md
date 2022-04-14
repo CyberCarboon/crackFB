@@ -3,7 +3,7 @@
 </h1>
 </div>
 <p align="center">
-  Made with  by <a href="https://github.com/CyberCarboon">Feri Pratama_</a>
+  Made with  by <a href="https://github.com/CyberCarboon">Feri Pratama</a>
 </p>
 <p align="center">
  
@@ -26,3 +26,6 @@ pip install bs4
 pkg install git
 
 git clone https://github.com/CyberCarboon/crackFB
+
+#Sourcecode
+ by Khamidihi Nih Tendang Dong-X
