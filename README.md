@@ -27,6 +27,10 @@ pkg install git
 
 git clone https://github.com/CyberCarboon/crackFB
 
+ls
+
+python cracker.py
+
 ## Sourcecode
  by Khamidihi Nih Tendang Dong-X
 
