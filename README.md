@@ -27,6 +27,8 @@ pkg install git
 
 git clone https://github.com/CyberCarboon/crackFB
 
+cd crackFB
+
 ls
 
 python cracker.py
