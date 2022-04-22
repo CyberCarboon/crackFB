@@ -1,1 +1,1 @@
-Mozilla/5.0 (Linux; U; Android 10; in-id; RMX2020 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/77.0.3865.116 Mobile Safari/537.36 HeyTapBrowser/45.8.3.1
+Mozilla/5.0 (Linux; Android 8.1.0; vivo 1820) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36
