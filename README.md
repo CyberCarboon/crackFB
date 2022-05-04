@@ -37,5 +37,7 @@ python cracker.py
  by Khamidihi Nih Tendang Dong-X
 
 ## chat me on
-<b>• [WhatsApp](https://api.whatsapp.com/send?phone=+62882-2534-9583&text=Assalamu'alaikum)</b>
-<br>
+
+[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://www.github.com/CyberCarboon)
+
+[![](https://img.shields.io/badge/Whatsapp-CHAT-blue?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6288225349583?text=dari+github)
