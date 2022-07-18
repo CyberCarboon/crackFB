@@ -33,9 +33,6 @@ ls
 
 python cracker.py
 
-## Sourcecode
- by Khamidihi Nih Tendang Dong-X
-
 ## chat me on
 
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://www.github.com/CyberCarboon)
