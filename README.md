@@ -8,7 +8,7 @@
 <p align="center">
  
 ### Menu
- <img src="https://github.com/CyberCarboon/crackFB/blob/main/Screenshot_20220413_102115.jpg" width="440" title="Menu" alt="Menu">
+ <img src="https://github.com/CyberCarboon/crackFB/blob/main/updated.jpg" width="440" title="Menu" alt="Menu">
 </p>
 
 # instalasi
@@ -19,7 +19,9 @@
 
 **pip install requests**
 
-pip install futures (kalo error' : pkg install futures)
+pip install futures
+
+pip install rich 
 
 pip install bs4
 
